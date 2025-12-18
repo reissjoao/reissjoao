@@ -13,34 +13,8 @@
 <br>
 <img src="https://user-images.githubusercontent.com/106037010/206037774-543a9d36-df5b-4b71-acec-026412ee3c01.jpg"/>
 
-
-Iniciei na área de desenvolvimento em janeiro de 2022, impulsionado pela paixão por tecnologia e jogos.
-Atualmente, sou estudante do 4º período em Análise e Desenvolvimento de Sistemas no Centro
-Universitário UniDSBCO. 
-
-Na startup 3MIND Tecnologia Jurídica, atuei como desenvolvedor web, adquirindo
-conhecimentos técnicos e comportamentais. A experiência inclui a aplicação de metodologias ágeis,
-destacando minha capacidade de comunicação eficaz, adaptação rápida a mudanças e entrega consistente
-de resultados.
-
-Possuo habilidades em HTML, CSS, Javascript, PHP, React.js, Angular, Java e MySQL.
-Comprometido com o aprendizado contínuo, demonstro isso por meio de cursos, projetos pessoais,
-evidenciados em meu perfil no GitHub. Sou um profissional dedicado, responsável e confiante na adoção de
-novas práticas para enfrentar desafios.
-
 <!-- - 📚 An investment in knowledge pays the best interest. – Benjamin Franklin -->
-
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/reissjoao">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=reissjoao&count_private=true&include_all_commits=true&show_icons=false&theme=tokyonight&hide_border=true&show_owner=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reissjoao&theme=tokyonight&hide_border=true&&layout=compact"/>
-  </a>
-  
-<br>
-<br>
-
+ 
 ## 🚀 Technology Stack
 
 
@@ -50,9 +24,10 @@ novas práticas para enfrentar desafios.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
